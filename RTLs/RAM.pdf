@@ -1,0 +1,833 @@
+%PDF-1.4
+1 0 obj
+<<
+  /Title    (LeiDeBug8BitsProcessador_1)
+  /Author   (NATALIA)
+  /Producer (Concept Engineering GmbH)
+  /Creator  (Nlview 6.6.0  2016-02-25 bk=1.3518 VDI=39 GEI=35)
+  /CreationDate (D:20220310023803)
+>>
+endobj
+2 0 obj
+<<
+  /Type     /Catalog
+  /Pages    3 0 R
+  /Outlines 7 0 R
+  /PageMode /UseThumbs
+  /ViewerPreferences << /DisplayDocTitle true >>
+>>
+endobj
+4 0 obj
+<<
+  /Type     /Font
+  /Subtype  /Type1
+  /Name     /F1
+  /BaseFont /Helvetica
+  /Encoding /MacRomanEncoding
+>>
+endobj
+5 0 obj
+<<
+  /ExtGState  << /GS 6 0 R >>
+  /Font       << /F1 4 0 R >>
+  /ColorSpace << /PCS [/Pattern /DeviceRGB] >>
+  /Pattern    8 0 R
+>>
+endobj
+6 0 obj
+<<
+  /Type /ExtGState
+  /LC   0
+  /LJ   0
+  /ML   4.0
+>>
+endobj
+%
+% Nlview page 1
+% (user space scaling 0.852923)
+%
+9 0 obj
+<<
+  /Type      /Page
+  /Parent    3 0 R
+  /Resources 5 0 R
+  /Contents  10 0 R
+  /MediaBox  [0 0 612 792]
+  /Rotate    0
+>>
+endobj
+10 0 obj
+<<
+  /Length 5306
+>>
+stream
+1 0 0 1 0 239.262 cm
+1 0 0 1 28.8 28.8 cm
+0.852923 0 0 -0.852923 0 0 cm
+1 0 0 1 0 -300 cm
+0 0 650 300 re
+W n
+/GS gs
+q
+1.000 1.000 1.000 rg
+0 0 650 301 re
+f
+Q
+q
+0.000 0.000 0.000 rg
+123 29 m
+547 29 l
+547 29 l
+550 29 l
+553 31 l
+555 34 l
+555 37 l
+555 37 l
+555 287 l
+555 287 l
+555 290 l
+553 293 l
+550 295 l
+547 295 l
+547 295 l
+123 295 l
+123 295 l
+120 295 l
+117 293 l
+115 290 l
+115 287 l
+115 287 l
+115 37 l
+115 37 l
+115 34 l
+117 31 l
+120 29 l
+h f
+Q
+q
+0.863 0.902 0.863 rg
+118 24 m
+542 24 l
+542 24 l
+545 24 l
+548 26 l
+550 29 l
+550 32 l
+550 32 l
+550 282 l
+550 282 l
+550 285 l
+548 288 l
+545 290 l
+542 290 l
+542 290 l
+118 290 l
+118 290 l
+115 290 l
+112 288 l
+110 285 l
+110 282 l
+110 282 l
+110 32 l
+110 32 l
+110 29 l
+112 26 l
+115 24 l
+h f
+Q
+1 w
+0.176 0.176 0.176 RG
+118 24 m
+542 24 l
+S
+550 32 m
+550.095 31.3367 550.095 30.6633 550 30 c
+549.448 26.134 545.866 23.4477 542 24 c
+S
+550 32 m
+550 282 l
+S
+542 290 m
+542.663 290.095 543.337 290.095 544 290 c
+547.866 289.448 550.552 285.866 550 282 c
+S
+542 290 m
+118 290 l
+S
+110 282 m
+109.905 282.663 109.905 283.337 110 284 c
+110.552 287.866 114.134 290.552 118 290 c
+S
+110 282 m
+110 32 l
+S
+118 24 m
+117.337 23.9052 116.663 23.9052 116 24 c
+112.134 24.5523 109.448 28.134 110 32 c
+S
+3 w
+115 35 m
+127 35 l
+S
+1 w
+113 27 16 16 re
+S
+q
+0.000 0.000 0.000 rg
+1 0 0 1 330 22 cm
+BT
+/F1 12 Tf
+1 0 0 -1 0 0 Tm
+-65.334 2.484 Td
+(MemoriaRAM:ram_mem) Tj
+ET
+Q
+0.024 0.278 0.435 RG
+100 60 m
+110 60 l
+S
+q
+0.024 0.278 0.435 rg
+1 0 0 1 108 58 cm
+BT
+/F1 10 Tf
+1 0 0 -1 0 0 Tm
+-37.78 2.07 Td
+(clocksys) Tj
+ET
+Q
+100 240 m
+110 240 l
+S
+q
+0.024 0.278 0.435 rg
+1 0 0 1 108 238 cm
+BT
+/F1 10 Tf
+1 0 0 -1 0 0 Tm
+-56.12 2.07 Td
+(readmemory) Tj
+ET
+Q
+100 180 m
+110 180 l
+S
+q
+0.024 0.278 0.435 rg
+1 0 0 1 108 178 cm
+BT
+/F1 10 Tf
+1 0 0 -1 0 0 Tm
+-57.22 2.07 Td
+(writememory) Tj
+ET
+Q
+3 w
+100 100 m
+110 100 l
+S
+q
+0.024 0.278 0.435 rg
+1 0 0 1 108 98 cm
+BT
+/F1 10 Tf
+1 0 0 -1 0 0 Tm
+-82.82 2.07 Td
+(entradaDATA[7..0]) Tj
+ET
+Q
+100 140 m
+110 140 l
+S
+q
+0.024 0.278 0.435 rg
+1 0 0 1 108 138 cm
+BT
+/F1 10 Tf
+1 0 0 -1 0 0 Tm
+-57.81 2.07 Td
+(address[7..0]) Tj
+ET
+Q
+560 230 m
+550 230 l
+S
+q
+0.024 0.278 0.435 rg
+1 0 0 1 556 228 cm
+BT
+/F1 10 Tf
+1 0 0 -1 0 0 Tm
+0 2.07 Td
+(saidaDATA[7..0]) Tj
+ET
+Q
+1 w
+120 60 m
+110 60 l
+S
+120 240 m
+110 240 l
+S
+120 180 m
+110 180 l
+S
+3 w
+120 100 m
+110 100 l
+S
+120 140 m
+110 140 l
+S
+540 230 m
+550 230 l
+S
+q
+0.000 0.000 0.000 rg
+215 55 120 140 re
+f
+Q
+q
+0.702 0.663 0.996 rg
+210 50 120 140 re
+f
+Q
+1 w
+0.176 0.176 0.176 RG
+210 50 120 140 re
+S
+q
+0.000 0.000 0.000 rg
+1 0 0 1 270 48 cm
+BT
+/F1 12 Tf
+1 0 0 -1 0 0 Tm
+-23.334 2.484 Td
+(memoria) Tj
+ET
+Q
+q
+0.176 0.176 0.176 rg
+1 0 0 1 270 196 cm
+BT
+/F1 12 Tf
+1 0 0 -1 0 0 Tm
+-33.336 -8.616 Td
+(SYNC_RAM) Tj
+ET
+Q
+0.024 0.278 0.435 RG
+200 160 m
+210 160 l
+S
+q
+0.024 0.278 0.435 rg
+1 0 0 1 212 160 cm
+BT
+/F1 10 Tf
+1 0 0 -1 0 0 Tm
+0 -3.59 Td
+(WADDR[0]) Tj
+ET
+Q
+200 140 m
+210 140 l
+S
+q
+0.024 0.278 0.435 rg
+1 0 0 1 212 140 cm
+BT
+/F1 10 Tf
+1 0 0 -1 0 0 Tm
+0 -3.59 Td
+(RADDR[0]) Tj
+ET
+Q
+200 180 m
+210 180 l
+S
+q
+0.024 0.278 0.435 rg
+1 0 0 1 212 180 cm
+BT
+/F1 10 Tf
+1 0 0 -1 0 0 Tm
+0 -3.59 Td
+(WE) Tj
+ET
+Q
+200 60 m
+210 60 l
+S
+q
+0.024 0.278 0.435 rg
+1 0 0 1 212 60 cm
+BT
+/F1 10 Tf
+1 0 0 -1 0 0 Tm
+0 -3.59 Td
+(CLK0) Tj
+ET
+Q
+200 120 m
+210 120 l
+S
+q
+0.024 0.278 0.435 rg
+1 0 0 1 212 120 cm
+BT
+/F1 10 Tf
+1 0 0 -1 0 0 Tm
+0 -3.59 Td
+(ENA1) Tj
+ET
+Q
+q
+0.024 0.278 0.435 rg
+1 0 0 1 208 119 cm
+BT
+/F1 12 Tf
+1 0 0 -1 0 0 Tm
+-22.68 2.484 Td
+(1'h1) Tj
+ET
+Q
+200 80 m
+210 80 l
+S
+q
+0.024 0.278 0.435 rg
+1 0 0 1 212 80 cm
+BT
+/F1 10 Tf
+1 0 0 -1 0 0 Tm
+0 -3.59 Td
+(CLR1) Tj
+ET
+Q
+q
+0.024 0.278 0.435 rg
+1 0 0 1 208 79 cm
+BT
+/F1 12 Tf
+1 0 0 -1 0 0 Tm
+-22.68 2.484 Td
+(1'h0) Tj
+ET
+Q
+3 w
+200 100 m
+210 100 l
+S
+q
+0.024 0.278 0.435 rg
+1 0 0 1 212 100 cm
+BT
+/F1 10 Tf
+1 0 0 -1 0 0 Tm
+0 -3.59 Td
+(DATAIN[7..0]) Tj
+ET
+Q
+340 120 m
+330 120 l
+S
+q
+0.024 0.278 0.435 rg
+1 0 0 1 328 120 cm
+BT
+/F1 10 Tf
+1 0 0 -1 0 0 Tm
+-70.02 -3.59 Td
+(DATAOUT[7..0]) Tj
+ET
+Q
+q
+0.000 0.000 0.000 rg
+428 188 60 100 re
+f
+Q
+q
+0.278 0.467 0.467 rg
+424 184 60 100 re
+f
+Q
+1 w
+0.176 0.176 0.176 RG
+424 184 60 100 re
+S
+q
+0.451 0.675 0.675 rg
+420 180 60 100 re
+f
+Q
+420 180 60 100 re
+S
+420 223 m
+427 220 l
+420 217 l
+S
+q
+0.000 0.000 0.000 rg
+1 0 0 1 450 178 cm
+BT
+/F1 12 Tf
+1 0 0 -1 0 0 Tm
+-62.532 2.484 Td
+(saidaDATA[0]~reg[7..0]) Tj
+ET
+Q
+3 w
+0.024 0.278 0.435 RG
+410 200 m
+420 200 l
+S
+q
+0.024 0.278 0.435 rg
+1 0 0 1 422 200 cm
+BT
+/F1 10 Tf
+1 0 0 -1 0 0 Tm
+0 -3.59 Td
+(D) Tj
+ET
+Q
+410 220 m
+420 220 l
+S
+q
+0.024 0.278 0.435 rg
+1 0 0 1 429 220 cm
+BT
+/F1 10 Tf
+1 0 0 -1 0 0 Tm
+0 -3.59 Td
+(CLK) Tj
+ET
+Q
+410 240 m
+420 240 l
+S
+q
+0.024 0.278 0.435 rg
+1 0 0 1 422 240 cm
+BT
+/F1 10 Tf
+1 0 0 -1 0 0 Tm
+0 -3.59 Td
+(ENA) Tj
+ET
+Q
+410 260 m
+420 260 l
+S
+q
+0.024 0.278 0.435 rg
+1 0 0 1 422 260 cm
+BT
+/F1 10 Tf
+1 0 0 -1 0 0 Tm
+0 -3.59 Td
+(SCLR) Tj
+ET
+Q
+q
+0.024 0.278 0.435 rg
+1 0 0 1 418 259 cm
+BT
+/F1 12 Tf
+1 0 0 -1 0 0 Tm
+-22.68 2.484 Td
+(8'h0) Tj
+ET
+Q
+490 230 m
+480 230 l
+S
+q
+0.024 0.278 0.435 rg
+1 0 0 1 478 230 cm
+BT
+/F1 10 Tf
+1 0 0 -1 0 0 Tm
+-7.78 -3.59 Td
+(Q) Tj
+ET
+Q
+0.176 0.176 0.176 RG
+340 120 m
+360 120 l
+360 200 l
+410 200 l
+S
+1 w
+120 240 m
+410 240 l
+S
+120 60 m
+160 60 l
+160 220 l
+410 220 l
+S
+160 60 m
+200 60 l
+S
+q
+0.176 0.176 0.176 rg
+158 58 5 5 re
+f
+Q
+120 180 m
+200 180 l
+S
+3 w
+120 100 m
+200 100 l
+S
+120 140 m
+140 140 l
+140 160 l
+200 160 l
+S
+140 140 m
+200 140 l
+S
+q
+0.176 0.176 0.176 rg
+137 137 7 7 re
+f
+Q
+490 230 m
+540 230 l
+S
+endstream
+endobj
+3 0 obj
+<<
+  /Type    /Pages
+  /Kids
+  [
+  9 0 R
+  ]
+  /Count   1
+  /ProcSet [/PDF /Text]
+>>
+endobj
+13 0 obj
+<<
+  /Title  (MemoriaRAM:ram_mem_13 MemoriaRAM:ram_mem_13)
+  /C      [0.0 0.0 0.4]
+  /Dest   [9 0 R /FitR 50 271 564 516]
+  /Parent 12 0 R
+  /Next   14 0 R
+>>
+endobj
+14 0 obj
+<<
+  /Title  (MemoriaRAM:ram_mem_13|memoria_88 memoria_88)
+  /C      [0.0 0.0 0.4]
+  /Dest   [9 0 R /FitR 187 345 318 494]
+  /Parent 12 0 R
+  /Prev   13 0 R
+  /Next   15 0 R
+>>
+endobj
+15 0 obj
+<<
+  /Title  (MemoriaRAM:ram_mem_13|saidaDATA[0]~reg[7..0]_92 saidaDATA[0]~reg[7..0]_92)
+  /C      [0.0 0.0 0.4]
+  /Dest   [9 0 R /FitR 359 278 466 383]
+  /Parent 12 0 R
+  /Prev   14 0 R
+>>
+endobj
+12 0 obj
+<<
+  /Title  (instances)
+  /C      [0.0 0.4 0.0]
+  /F      1
+  /Parent 11 0 R
+  /First  13 0 R
+  /Last   15 0 R
+  /Count  3
+  /Next   16 0 R
+>>
+endobj
+16 0 obj
+<<
+  /Title  (ports)
+  /C      [0.0 0.4 0.0]
+  /F      1
+  /Parent 11 0 R
+  /First  0 0 R
+  /Last   0 0 R
+  /Count  0
+  /Prev   12 0 R
+  /Next   17 0 R
+>>
+endobj
+17 0 obj
+<<
+  /Title  (portBuses)
+  /C      [0.0 0.4 0.0]
+  /F      1
+  /Parent 11 0 R
+  /First  0 0 R
+  /Last   0 0 R
+  /Count  0
+  /Prev   16 0 R
+  /Next   18 0 R
+>>
+endobj
+19 0 obj
+<<
+  /Title  (MemoriaRAM:ram_mem_13|OUT0_235)
+  /C      [0.0 0.0 0.4]
+  /Dest   [9 0 R /FitR 131 319 378 319]
+  /Parent 18 0 R
+  /Next   20 0 R
+>>
+endobj
+20 0 obj
+<<
+  /Title  (MemoriaRAM:ram_mem_13|OUT0_236)
+  /C      [0.0 0.0 0.4]
+  /Dest   [9 0 R /FitR 130 335 379 474]
+  /Parent 18 0 R
+  /Prev   19 0 R
+  /Next   21 0 R
+>>
+endobj
+21 0 obj
+<<
+  /Title  (MemoriaRAM:ram_mem_13|OUT0_246)
+  /C      [0.0 0.0 0.4]
+  /Dest   [9 0 R /FitR 131 370 199 370]
+  /Parent 18 0 R
+  /Prev   20 0 R
+>>
+endobj
+18 0 obj
+<<
+  /Title  (nets)
+  /C      [0.0 0.4 0.0]
+  /F      1
+  /Parent 11 0 R
+  /First  19 0 R
+  /Last   21 0 R
+  /Count  3
+  /Prev   17 0 R
+  /Next   22 0 R
+>>
+endobj
+23 0 obj
+<<
+  /Title  (MemoriaRAM:ram_mem_13|DATAOUT[7..0]_265)
+  /C      [0.0 0.0 0.4]
+  /Dest   [9 0 R /FitR 316 350 381 424]
+  /Parent 22 0 R
+  /Next   24 0 R
+>>
+endobj
+24 0 obj
+<<
+  /Title  (MemoriaRAM:ram_mem_13|OUT0_266)
+  /C      [0.0 0.0 0.4]
+  /Dest   [9 0 R /FitR 131 438 199 438]
+  /Parent 22 0 R
+  /Prev   23 0 R
+  /Next   25 0 R
+>>
+endobj
+25 0 obj
+<<
+  /Title  (MemoriaRAM:ram_mem_13|OUT0_267)
+  /C      [0.0 0.0 0.4]
+  /Dest   [9 0 R /FitR 128 384 201 407]
+  /Parent 22 0 R
+  /Prev   24 0 R
+  /Next   26 0 R
+>>
+endobj
+26 0 obj
+<<
+  /Title  (MemoriaRAM:ram_mem_13|OUT0_268)
+  /C      [0.0 0.0 0.4]
+  /Dest   [9 0 R /FitR 446 327 489 327]
+  /Parent 22 0 R
+  /Prev   25 0 R
+>>
+endobj
+22 0 obj
+<<
+  /Title  (netBundles)
+  /C      [0.0 0.4 0.0]
+  /F      1
+  /Parent 11 0 R
+  /First  23 0 R
+  /Last   26 0 R
+  /Count  4
+  /Prev   18 0 R
+>>
+endobj
+11 0 obj
+<<
+  /Title  (Nlview page 1)
+  /C      [0.4 0.0 0.0]
+  /Dest   [9 0 R /Fit]
+  /Parent 7 0 R
+  /First  12 0 R
+  /Last   22 0 R
+  /Count  5
+>>
+endobj
+8 0 obj
+<<
+>>
+endobj
+7 0 obj
+<<
+  /Type  /Outline
+  /First 11 0 R
+  /Last  11 0 R
+  /Count 1
+>>
+endobj
+xref
+0 27
+0000000000 65535 f 
+0000000009 00000 n 
+0000000230 00000 n 
+0000006279 00000 n 
+0000000380 00000 n 
+0000000507 00000 n 
+0000000655 00000 n 
+0000009171 00000 n 
+0000009150 00000 n 
+0000000779 00000 n 
+0000000919 00000 n 
+0000008993 00000 n 
+0000006953 00000 n 
+0000006379 00000 n 
+0000006554 00000 n 
+0000006747 00000 n 
+0000007113 00000 n 
+0000007284 00000 n 
+0000007965 00000 n 
+0000007459 00000 n 
+0000007622 00000 n 
+0000007802 00000 n 
+0000008832 00000 n 
+0000008137 00000 n 
+0000008309 00000 n 
+0000008489 00000 n 
+0000008669 00000 n 
+trailer
+<<
+  /Size 27
+  /Info 1 0 R
+  /Root 2 0 R
+>>
+startxref
+9253
+%%EOF
