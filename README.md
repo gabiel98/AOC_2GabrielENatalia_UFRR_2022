@@ -6,7 +6,7 @@
     |	
     <a href="https://github.com/nataliaalmada/AOC_2GabrielENatalia_UFRR_2022/tree/main/Relat%C3%B3rio%20-%20PROCESSADOR%20LEIDEBUG">Relatório</a>
     |
-    <a href="https://github.com/nataliaalmada/AOC_2GabrielENatalia_UFRR_2022/blob/main/Apresenta%C3%A7%C3%A3o">Apresentação</a>
+    <a href="https://github.com/nataliaalmada/AOC_2GabrielENatalia_UFRR_2022/tree/main/Apresenta%C3%A7ao">Apresentação</a>
     |
     <a href="https://github.com/nataliaalmada/AOC_2GabrielENatalia_UFRR_2022/blob/main/ProcessadorLeiDeBug8Bits.zip">Processador</a>
     |
