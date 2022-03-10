@@ -1,4 +1,5 @@
-![leideugufrrrrrwb](https://user-images.githubusercontent.com/53869225/157570293-2e0af74c-2890-4741-b036-83077296f97b.png)
+
+![YJRHGWEFEDWASA](https://user-images.githubusercontent.com/53869225/157572970-067852fd-08fa-46a5-a2d6-1204e041c80d.png)
 
 
 <p align="center">
@@ -10,13 +11,13 @@
     <a href="https://github.com/nataliaalmada/AOC_2GabrielENatalia_UFRR_2022/blob/main/PROCESSADOR_LEIDEBUG">Processador</a>
     |
     <a href="https://github.com/nataliaalmada/AOC_2GabrielENatalia_UFRR_2022/blob/main/TESTES">Testes</a>
-     |	  
+    |	  
 
 # PROJETO DE ARQUITETURA E ORGANIZAÇÃO DE COMPUTADORES
-# CRIAÇÃO DE PROCESSADOR DE 8 BITS BASEADO EM MIPS 
-# AUTORES: NATALIA RIBEIRO DE ALMADA E GABRIEL PEIXOTO MENEZES DA COSTA 
-#          
-         
-# SEMESTRE 2021.2 
+
+![CABEÇAÇHOH](https://user-images.githubusercontent.com/53869225/157573321-c7ec626d-efd8-4c68-b68a-ea7e7226a08e.png)
+
+ <p align="center">   
+ SEMESTRE 2021.2 
 
 
